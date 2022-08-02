@@ -7,3 +7,19 @@
   #wall .tag-1 {
     display: none;
   }
+  .tag-2{
+    background: url(../images/tag-2.png) no-repeat ;
+    z-index: 7;
+    display: block;
+  }
+  #wall .tag-2{
+    display: none;
+  }
+  .tag-3{
+    background:url(../images/tag-3.png)no-repeat ;
+    z-index: 7;
+    display: block;
+  }
+  #wall .tag-3{
+    display: none;
+  }
